@@ -1,5 +1,4 @@
 [DEMO](https://anastasiiaaliinyk.github.io/todo-app/)
-
 ## Available Scripts
 
 In the project directory, you can run:
